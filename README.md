@@ -1,2 +1,2 @@
 # DDM
-## Purpose: for the purpose of DDM program and learning
+for the purpose of projects push on DDM program
